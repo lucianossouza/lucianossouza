@@ -1,4 +1,10 @@
-## Olá eu sou o Luciano!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323332&height=200&section=header&text=Olá%20eu%20sou%20o%20Luciano&fontSize=40&fontColor=ffffff" />
+
+## Seja bem vindo(a) ao meu Github
+- 🖥️ Desenvolvedor Frontend
+- 📖 Estudando Analise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital
+- ❤️ Apaixonado por tecnologia
+<br/>
 
 <div align="center">
   <a href="https://github.com/lucianossouza">
