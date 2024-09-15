@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323332&height=200&section=header&text=Olá%20eu%20sou%20o%20Luciano&fontSize=40&fontColor=ffffff" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=323332&height=200&section=header&text=Olá,%20eu%20sou%20o%20Luciano&fontSize=40&fontColor=ffffff" />
 
 ## Seja bem vindo(a) ao meu Github
 - 🖥️ Desenvolvedor Frontend
