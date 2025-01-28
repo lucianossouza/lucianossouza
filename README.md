@@ -6,7 +6,7 @@
 - ❤️ Apaixonado por tecnologia
 <br/>
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/lucianossouza">
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucianossouza&layout=compact&langs_count=7&theme=dark"/>
 </div>
