@@ -2,9 +2,11 @@
 
 ## Seja bem vindo(a) ao meu Github
 - 🖥️ Desenvolvedor Frontend
-- 📖 Estudando Analise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital
-- ❤️ Apaixonado por tecnologia
+- 📖 Estudando Analise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital.
+- ❤️ Apaixonado por tecnologia.
+- 💻 Conecte-se comigo <a href="https://www.linkedin.com/in/lucianossouza/" target="_blank"> [via LinkedIn]</a>
 <br/>
+
 
 <div align="left">
   <a href="https://github.com/lucianossouza">
