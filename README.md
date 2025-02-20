@@ -4,7 +4,7 @@
 - 🖥️ Desenvolvedor Frontend
 - 📖 Estudando Analise e Desenvolvimento de Sistemas na Descomplica Faculdade Digital.
 - ❤️ Apaixonado por tecnologia.
-- 💻 Conecte-se comigo <a href="https://www.linkedin.com/in/lucianossouza/" target="_blank"> [via LinkedIn]</a>
+- 💻 Conecte-se comigo <a href="https://www.linkedin.com/in/lucianossouza/" target="_blank"> via LinkedIn</a>
 <br/>
 
 
